@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+    <h1> How to make a Pizza</h1>
+
+    <body>
+    <h2> Ingredients</h2>
+        <ol>
+            <li>1 <em>pound</em> <strong>Pepperoni</strong> thinly sliced</li>
+            <li> 1 <em>pound</em> of shredded <strong>Mozzarella Cheese</strong></li>
+            <li> 12 <em>ounces</em> of <strong>Tomato Sauce</strong></li>
+            <li> 2 <em>Tablespoons</em> of <strong>Olive Oil</strong></li>
+        </ol>
+
+
+    </body>
+
+</html>
